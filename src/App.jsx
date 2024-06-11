@@ -77,10 +77,11 @@ function App() {
               Convert {from.toUpperCase()} to {to.toUpperCase()}
             </button>
           </form>
+        <p className='text-black/60 font-serif text-center text-lg mt-3 font-bold'>A Project by <a href="https://www.linkedin.com/in/ayush-jaiswal-330937210/" target='blank'><u>Ayush Jaiswal</u></a></p>
         </div>
       </div>
     </div>
   );
 }
-
+ 
 export default App;
